@@ -36,6 +36,9 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 * [Program to take an alphabet from user and check whether it is a vowel or not](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Basics/31.c)
 * [Program to take two numbers and check whether they are amicable numbers or not](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Basics/32.c)
 * [Program to accept a number and print the factors of that number](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Basics/33.c)
+
+**Moderate :**
+
 * [ Program to accept two integer numbers and print the GCD(Greatest Common Divisor)](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/34.c)
 * [Program to find power of number](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/35.c)
 * [Program to calculate HCF & LCM](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/36.c)
