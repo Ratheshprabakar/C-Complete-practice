@@ -78,5 +78,5 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 
 **Hard**
 
-* [Program to reverse the string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/75.c)
+* [Program to reverse the string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/75.c)
 
