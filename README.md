@@ -75,5 +75,8 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 * [Program to check the palindrome of string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/72.c)
 * [Program to check the palindrome of word using array](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/73.c)
 * [Program to remove white space in string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/74.c)
+
+**Hard**
+
 * [Program to reverse the string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/75.c)
 
