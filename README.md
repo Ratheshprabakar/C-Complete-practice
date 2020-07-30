@@ -70,3 +70,13 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 * [Program to copy string without using strcpy() function](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/67.c)
 * [Program to count frequency of characters in a string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/68.c)
 * [Program to count total number of uppercase and lowercase in a string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/69.c)
+* [Program to calculate the length of string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/70.c)
+* [Program to calculate the length of string without using strlen() function](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/71.c)
+* [Program to check the palindrome of string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/72.c)
+* [Program to check the palindrome of word using array](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/73.c)
+* [Program to remove white space in string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Moderate/74.c)
+
+**Hard**
+
+* [Program to reverse the string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/75.c)
+
