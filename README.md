@@ -79,4 +79,7 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 **Hard**
 
 * [Program to reverse the string](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/75.c)
+* [Program to reverse the string using pointer](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/76.c)
+* [Program to sort the strings](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/77.c)
+* [Program to swap two strings](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/78.c)
 
