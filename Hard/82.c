@@ -1,4 +1,4 @@
-//Program to delete an element from array
+//Program to delete given element from array
 #include<stdio.h>
 int main()
 {
