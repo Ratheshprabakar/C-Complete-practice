@@ -3,7 +3,7 @@
 int main()
 {
 	int array[10][10];
-	int m,n;
+	int m,n,count=0;
 	printf("Enter number of rows and columns\t");
 	scanf("%d\t%d",&m,&n);
 	printf("Enter the matrix values\n");
