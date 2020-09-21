@@ -93,3 +93,4 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 * [Program to reverse the array](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/87.c)
 * [Program to insert an element in array at particular position](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/88.c)
 * [Program to sort array using Insertion sort](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/89.c)
+* [Search an element in a sorted array using Binary Search](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/90.c)
