@@ -6,7 +6,7 @@ int main()
 	printf("Enter the value of N\t");
 	scanf("%d",&n);
 	do{
-		printf("%d\n",i);
-		i++;	
+		printf("%d\n",n);
+		n--;	
 	}while(i<=n);	
 }
