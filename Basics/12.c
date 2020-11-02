@@ -10,7 +10,7 @@ int main()
 	if(det>0)
 	{
 		r1=(-b+(sqrt(det)))/(2*a);
-		r2=(-b+(sqrt(det)))/(2*a);
+		r2=(-b-(sqrt(det)))/(2*a);
 		printf("Roots are %f and %f",r1,r2);
 	}
 	else
