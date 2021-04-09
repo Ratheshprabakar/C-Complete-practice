@@ -95,3 +95,7 @@ Output:- 4201](https://github.com/Ratheshprabakar/C-Complete-practice/blob/maste
 * [Program to insert an element in array at particular position](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/88.c)
 * [Program to sort array using Insertion sort](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/89.c)
 * [Search an element in a sorted array using Binary Search](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/90.c)
+* [Given an integer array, write a function to reverse every set of  'k' numbers. Modify the same array without creating another array. Reverse the remaining elements even if it is less than 'k'. 
+Example: 
+Input:  {2, 1 , 3 , 5 , 8 , 6 , 7 , 9}   and k = 3 
+Output:  {3 , 1 , 2 , 6 , 8 , 5 , 9 , 7}](https://github.com/Ratheshprabakar/C-Complete-practice/blob/master/Hard/94.c)
